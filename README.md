@@ -1,7 +1,6 @@
-# WattWatch
-# Evonence Campus Drive Assessment Hackathon
+# WattWatch (Evonence Campus Drive Assessment Hackathon)
 
-This repository contains **WattWatch**, an AI Utility Auditor Agent developed for the Evonence Campus Drive Assessment Hackathon.
+This repository contains **WattWatch**, an AI Utility Auditor Agent developed for the Evonence  Assessment Hackathon.
 
 ## What is WattWatch?
 
